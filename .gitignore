@@ -15,3 +15,7 @@ config.json
 
 # Environment variables
 .env
+
+log.txt
+master_login.json
+app_password.json
